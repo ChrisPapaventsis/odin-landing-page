@@ -76,7 +76,7 @@ header {
 
 .second-section {
     background-color: white;
-    padding: 40px 20px;
+    padding: 30px 20px;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -119,4 +119,43 @@ header {
 .third-section-author {
     font-size: 19pt;
     text-align: right;
+}
+
+.fourth-section {
+    background-color: white;
+    padding: 100px 200px;
+}
+
+.fourth-section-container {
+    background-color: #3882F6;
+    color: white;
+    padding: 0px 120px;
+    border-radius: 12px;
+    display: flex;
+}
+
+.fourth-section-text {
+    width: 77%;
+}
+
+.fourth-section-text #big {
+    font-weight: bold;
+    font-size: 18pt;
+    margin-top: 45px;
+    margin-bottom: 0px;
+}
+
+.fourth-section-text  #small {
+    font-size: 15pt;
+    margin: 0;
+}
+
+.fourth-section-container button {
+    margin: 50px 30px;
+    padding: 10px 40px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: white;
+    font-size: 14pt;
 }
