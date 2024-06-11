@@ -105,3 +105,18 @@ header {
     text-wrap: wrap;
     width: 20%;
 }
+
+.third-section {
+    background-color: #E5E7EB;
+    padding: 100px 350px;
+}
+
+.third-section-quote {
+    font-style: italic;
+    font-size: 26pt;
+}
+
+.third-section-author {
+    font-size: 19pt;
+    text-align: right;
+}
